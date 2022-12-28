@@ -17,7 +17,6 @@ If you wanna enjoy just run
 
 ```
 ./so_long_bonus maps/b_map.ber
-
 ```
 ## And to make the game harder add an argument between 0 and 30 ( 30 is the harder Don't run this at first).
 
