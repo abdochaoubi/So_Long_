@@ -2,7 +2,7 @@ This project is a little bit different from the subject.
 # Installation
 
 ```
-https://github.com/abdochaoubi/So_Long_.git
+git clone https://github.com/abdochaoubi/So_Long_.git
 ```
 
 ## then
