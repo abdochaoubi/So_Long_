@@ -4,9 +4,7 @@ This project is a little bit different from the subject.
 ```
 git clone https://github.com/abdochaoubi/So_Long_.git
 ```
-
-## then
-
+ then
 ```
 cd So_Long_ && make bonus
 ```
